@@ -1,0 +1,9 @@
+{
+    "watchForFileChanges": false,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 20000,
+    "baseUrl": "https://demo.mceasy.com/login/",
+    "chromeWebSecurity": false
+}

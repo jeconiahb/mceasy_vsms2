@@ -1,0 +1,16 @@
+# Node Modules
+node_modules
+
+# Log file
+*.log
+
+# Video Logs
+videos
+screenshots
+
+
+# VS Code Settings
+.vscode
+
+# package-lock
+package-lock.json
